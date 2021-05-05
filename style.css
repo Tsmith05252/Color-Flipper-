@@ -1,0 +1,27 @@
+
+/* Header */
+.top 
+{
+   
+  font-size: 45px; 
+}
+
+#name
+{ 
+  padding: 5px; 
+  text-align: center; 
+}
+
+/* Button */
+.center 
+{ 
+  padding: 20px; 
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); 
+}
+
+
